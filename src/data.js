@@ -4,7 +4,7 @@ const menu = [
     title: "buttermilk pancakes",
     category: "breakfast",
     price: 15.99,
-    img: "./images/item-1.jpeg",
+    img: "./images/01-pancake.jpg",
     desc: `There's nothing like plain buttermilk pancakes topped with maple syrup. But, if you're in the mood to add something extra to your breakfast, you can! Optional mix-ins include chocolate chips, berries, and nuts. You could also add cinnamon and vanilla to the batter for a little extra warmth. Instead of syrup, you could top your buttermilk pancakes with jam or honey for a sweet twist on a classic.`,
   },
   {
@@ -12,7 +12,7 @@ const menu = [
     title: "diner double",
     category: "lunch",
     price: 13.99,
-    img: "./images/item-2.jpeg",
+    img: "./images/02-diner double.jpg",
     desc: `Diner Double Cheeseburger features two hand-pressed beef patties, topped with melted American cheese, caramelized onions, and All-American sauce, all sandwiched between two brioche buns.`,
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: "godzilla milkshake",
     category: "shakes",
     price: 6.99,
-    img: "./images/item-3.jpeg",
+    img: "./images/03-godzilla.jpg",
     desc: `“Godzilla” is topped with whipped cream and/or vanilla ice cream. These heaps of chocolate malt powder are added to give extra crunch to the drinks.`,
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: "country delight",
     category: "breakfast",
     price: 20.99,
-    img: "./images/item-4.jpeg",
+    img: "./images/04-country delight.jpg",
     desc: `Onions, Sweet Bell Peppers & Fresh Mushrooms, Topped with Shredded Marble Cheese & 2 Eggs Served Your Way. Served with a Side of Smoked Bacon, Ham OR Link Sausage.`,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "egg attack",
     category: "lunch",
     price: 22.99,
-    img: "./images/item-5.jpeg",
+    img: "./images/05-egg.jpg",
     desc: `You'll love this easy but tasty egg salad recipe that works as a starter or light lunch.`,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "oreo dream",
     category: "shakes",
     price: 18.99,
-    img: "./images/item-6.jpeg",
+    img: "./images/06-oreo.webp",
     desc: `Love the combination of Oreo cookies and ice cream? Then a delicious and decadent Oreo milkshake is for you! This sweet treat is perfect for celebrations, special occasions, or simply to cool you down on a hot summer day.`,
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: "bacon overflow",
     category: "breakfast",
     price: 8.99,
-    img: "./images/item-7.jpeg",
+    img: "./images/07-bacon.jpg",
     desc: `This high protein breakfast log has all the best parts of breakfast. Warm and fluffy eggs, crispy hash browns, cheesiness, and the unmistakable savoriness of bacon.`,
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "American classic",
     category: "lunch",
     price: 12.99,
-    img: "./images/item-8.jpeg",
+    img: "./images/08-classic.webp",
     desc: `From grilled cheese and burgers to cheesecake and apple pie, these classic American recipes are irresistible. `,
   },
   {
@@ -68,7 +68,7 @@ const menu = [
     title: "quarantine buddy",
     category: "shakes",
     price: 16.99,
-    img: "./images/item-9.jpeg",
+    img: "./images/09-quarantine.jpg",
     desc: `Pack in the protein with one of our delicious protein shake recipes for you and your quarantine buddy! `,
   },
 ];

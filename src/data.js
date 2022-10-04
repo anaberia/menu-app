@@ -20,7 +20,7 @@ const menu = [
     title: "godzilla milkshake",
     category: "shakes",
     price: 6.99,
-    img: "./images/03-godzilla.jpg",
+    img: "./images/03-godzilla.webp",
     desc: `“Godzilla” is topped with whipped cream and/or vanilla ice cream. These heaps of chocolate malt powder are added to give extra crunch to the drinks.`,
   },
   {
